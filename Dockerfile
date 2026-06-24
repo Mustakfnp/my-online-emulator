@@ -1,3 +1,2 @@
-FROM budtmo/docker-android-x86-11.0
+FROM budtmo/docker-android:emulator_11.0
 EXPOSE 6080
-
